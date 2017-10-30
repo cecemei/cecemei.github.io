@@ -1,5 +1,11 @@
 .profile-image {
-  margin-right: 30px;
+  margin-top: 10%;
+  margin-bottom: 10%
+}
+
+.resize{
+	width: 200px;
+	height: 200px;
 }
 
 @media (max-width: 767px) {
