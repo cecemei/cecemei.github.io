@@ -1,0 +1,13 @@
+a {
+  border-bottom: 1px solid;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #666;
+}
+            
+.bullet {
+	padding-right: 10pt;
+}

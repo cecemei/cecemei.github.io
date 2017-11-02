@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="css/raleway-font.css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/layout.css">
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -41,28 +42,44 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
-    <div class="row">
-      <div class="column">
+    <div class="row" style="margin-top: 40pt">
+      <div class="one-third column">
         <img class="profile-image resize" src="./image/me.jpg">
       </div>
-    </div>
-    <div class="row">
-      <div class="column">
-        <h5>Welcome to Yingqian Mei's website.</h5>
-      </div>
-    </div>
-    <div class="row">
-      <div class="column">
-         
-          <p>
-            <i style="padding-right: 10pt">🚀</i> 
-            <a href="./portfolio"> Projects </a> I have been working on
-          </p>
-          <p>
-            <i style="padding-right: 10pt">🚀</i>
-            Know more about <a href="./portfolio/docs">me</a>
-          </p>
-         
+      <div class="two-thirds column" >
+        <h5 style="margin-bottom: 2em">Hello, I'm Yingqian Mei.</h5>
+      
+        <div style="margin-bottom:1.5em">
+          <h5 >
+            <i class="bullet">🚀</i> 
+             Projects 
+          </h5>
+              <div class="offset-by-one column" >
+                <h5 style="margin-bottom: 0;font-weight: 400" >
+                  <a href="./interactive-origin-destination-flows">origin destination flows in florida</a>
+                  <i style="font-size:1.5rem">this will take sometime to load</i>
+                </h5>
+                <p style="font-weight: 200">
+                  An interactive map showing the distribution of trip destinations. 
+                </p>
+              </div>
+              <div class="offset-by-one column" >
+                <h5 style="margin-bottom: 0;font-weight: 400">
+                  <a href="./24hr-traffic-map">24-hour traffic map in pacific northwest region</a>
+                </h5>
+                <p style="font-weight: 200">
+                  A dynamic map showing the variation of traffic during 24 hours of an average day.
+                </p>
+              </div>
+            </div>
+          <div style="margin-bottom:1.5em">
+            <h5>
+              <i class="bullet">🚀</i>
+              <a href="./portfolio/docs">About me</a>
+            </h5>
+              <p style="padding-left: 30pt">contact me on <a href="https://github.com/cecemei">github</a></p>
+            
+         </div>
       </div>
     </div>
   </div>
