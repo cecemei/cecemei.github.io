@@ -114,6 +114,12 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - http://highscalability.com/
   - http://aosabook.org/en/index.html
   - https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+  - https://www.nature.com/articles/srep01001
+  - https://cdn.oreillystatic.com/en/assets/1/event/20/Maps%20from%20Scratch_%20Online%20Maps%20from%20the%20Ground%20Up%20Presentation.pdf
+  - http://www.statsmodels.org/stable/index.html
+  - https://www.niss.org/sites/default/files/technicalreports/tr155.pdf
+  - https://rosettacode.org/wiki/Using_the_Meetup.com_API#Java
+  
 
 
 
