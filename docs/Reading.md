@@ -143,3 +143,4 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - http://www.1point3acres.com/bbs/forum-99-1.html
   - [Jupyter Notebook](https://delftswa.gitbooks.io/desosa-2017/content/jupyter/chapter.html#arch)
   - [Web Slider Example](https://github.com/clhenrick/nacis-2017-nyc-crash-mapper)
+  - [MacOS Dev environment](https://www.jianshu.com/p/1bac418bb40c)
