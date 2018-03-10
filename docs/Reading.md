@@ -119,7 +119,7 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - http://www.statsmodels.org/stable/index.html
   - https://www.niss.org/sites/default/files/technicalreports/tr155.pdf
   - https://rosettacode.org/wiki/Using_the_Meetup.com_API#Java
-  
+
 
 
 
@@ -142,3 +142,4 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - http://www.1point3acres.com/bbs/thread-226233-1-1.html
   - http://www.1point3acres.com/bbs/forum-99-1.html
   - [Jupyter Notebook](https://delftswa.gitbooks.io/desosa-2017/content/jupyter/chapter.html#arch)
+  - [Web Slider Example](https://github.com/clhenrick/nacis-2017-nyc-crash-mapper)
