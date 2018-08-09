@@ -3,6 +3,7 @@
 * Web
   - [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
   - [Better Express Routing & Architecture](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
+  - [Server & Authentication Basics: Express, Sessions, Passport, and cURL](https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d)
 
 
 * Opensource GIS (GDAL/ OGR, QGIS, PostGIS)
