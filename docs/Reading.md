@@ -4,6 +4,10 @@
   - [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
   - [Better Express Routing & Architecture](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
   - [Server & Authentication Basics: Express, Sessions, Passport, and cURL](https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d)
+  - [Middleware: THE core of node.js backend apps](https://hackernoon.com/middleware-the-core-of-node-js-apps-ab01fee39200)
+  - [Scalable Web Architecture and Distributed Systems
+](http://www.aosabook.org/en/distsys.html)
+  - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 
 
 * Opensource GIS (GDAL/ OGR, QGIS, PostGIS)
