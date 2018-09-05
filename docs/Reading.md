@@ -1,6 +1,7 @@
 # Reading collection
 
 * Web
+  - [Best practices for Express app structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
   - [Express Routing - The Beginners Guide](http://jilles.me/express-routing-the-beginners-guide/)
   - [Better Express Routing & Architecture](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
   - [Server & Authentication Basics: Express, Sessions, Passport, and cURL](https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d)
@@ -8,6 +9,7 @@
   - [Scalable Web Architecture and Distributed Systems
 ](http://www.aosabook.org/en/distsys.html)
   - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+  - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
 
 * Opensource GIS (GDAL/ OGR, QGIS, PostGIS)
