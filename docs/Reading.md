@@ -8,7 +8,26 @@
   - [Scalable Web Architecture and Distributed Systems
 ](http://www.aosabook.org/en/distsys.html)
   - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+  - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
+  - [Node.js async in practice: When to use what?](http://www.sebastianseilund.com/nodejs-async-in-practice)
+  - [JavaScript Garden - the most quirky parts of the JavaScript programming language](http://bonsaiden.github.io/JavaScript-Garden)
+  - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+  - [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+  - [Web Archiitecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+  - [Scaling memcache at facebook](https://medium.com/@shagun/scaling-memcache-at-facebook-1ba77d71c082)
+  - [async v.s. promise](https://news.ycombinator.com/item?id=13558669)
+  - [on code reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+  - [Async/Await Essentials for Production: Loops, Control Flows & Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
+  - [Explore ES6 - Modules](http://exploringjs.com/es6/ch_modules.html)
 
+* Microservices
+  - [Enough with the microservices](https://adamdrake.com/enough-with-the-microservices.html)
+  - [Modules vs. microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
+
+* DevOps
+  - [Full Cycle Developers at Netflix — Operate What You Build](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
+  - [The Three Ways: The Principles Underpinning DevOps](http://itrevolution.com/the-three-ways-principles-underpinning-devops/)
 
 * Opensource GIS (GDAL/ OGR, QGIS, PostGIS)
   - [Python API Documentation](http://gdal.org/python/)
@@ -100,6 +119,8 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
 
 
 * Personal website collection
+  - https://martinfowler.com/
+  - http://joshuablog.herokuapp.com/
   - https://www.justinobeirne.com/
   - https://github.com/checkcheckzz/system-design-interview
   - https://github.com/h5bp/Front-end-Developer-Interview-Questions
