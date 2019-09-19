@@ -21,16 +21,28 @@
   - [on code reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
   - [Async/Await Essentials for Production: Loops, Control Flows & Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
   - [Explore ES6 - Modules](http://exploringjs.com/es6/ch_modules.html)
+  - [Postmortem](http://danluu.com/postmortem-lessons/)
+  - [Too much abstraction](http://wiki.c2.com/?TooMuchAbstraction)
 
 * Microservices
   - [Enough with the microservices](https://adamdrake.com/enough-with-the-microservices.html)
   - [Modules vs. microservices](https://www.oreilly.com/ideas/modules-vs-microservices)
+  - [Using rabbitmq for microservices communication on docker](https://codeburst.io/using-rabbitmq-for-microservices-communication-on-docker-a43840401819)
 
 * DevOps
   - [Full Cycle Developers at Netflix — Operate What You Build](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
   - [The Three Ways: The Principles Underpinning DevOps](http://itrevolution.com/the-three-ways-principles-underpinning-devops/)
   - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
-
+  - [A Thorough Introduction to Distributed Systems](https://hackernoon.com/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
+  - [Thorough Introduction to Apache Kafka](https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
+  - [Building your own cdn](https://pasztor.at/blog/building-your-own-cdn)
+  - [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+  - [Tackling the system design interview](https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/)
+  - [系统设计面试题精选](https://soulmachine.gitbooks.io/system-design/cn/)
+  - [System design primer](https://github.com/donnemartin/system-design-primer)
+  - [技术面 刷题以外的那些事儿](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=490583)
+  - [Multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
+  - [I interviewed at five top companies](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 
 * Opensource GIS (GDAL/ OGR, QGIS, PostGIS)
   - [Python API Documentation](http://gdal.org/python/)
@@ -73,6 +85,9 @@ to Vector Tiles](https://2016.foss4g-na.org/sites/default/files/slides/Foss4GNA%
   - [用户增长怎么做 - 我在Uber和摩拜的实战经验](https://zhuanlan.zhihu.com/p/33905485)
   - [Understanding Uber: Driver Growth Loop](http://ayeshamascarenhas.tumblr.com/post/141532139520/understanding-uber-driver-growth-loop)
   - [Agile Software Development Life Cycle](https://www.ibm.com/developerworks/community/blogs/siddharthsaraya?lang=en)
+  - [A decade of remote work](https://blog.viktorpetersson.com/remote-work/2019/05/18/a-decade-of-remote.html)
+  - [The 7 habits sharpen the saw](https://www.artofmanliness.com/articles/the-7-habits-sharpen-the-saw/)
+  - [我的透明创业实验](https://blog.t9t.io/transparent-startup-experiment-2019-05-20/)
 
 
 * GIS data science
@@ -120,6 +135,10 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - [State Transportation by the Numbers](https://www.bts.gov/content/state-transportation-numbers)
   - [(Improve Your Python: Python Classes and Object Oriented Programming)](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 
+
+* Blog
+  - https://www.discoverdev.io/
+  - [中文独立播客](https://typlog.com/podlist/)
 
 * Personal website collection
   - https://martinfowler.com/
@@ -177,3 +196,10 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - [Web Slider Example](https://github.com/clhenrick/nacis-2017-nyc-crash-mapper)
   - [MacOS Dev environment](https://www.jianshu.com/p/1bac418bb40c)
   - [coroutine](http://liuchengxu.org/blog-cn/posts/a-web-crawer-with-a-asyncio-coroutines-1/)
+  - [53 Insanely Clever Bedroom Storage Hacks And Solutions](https://makespace.com/blog/posts/bedroom-storage-hacks-solutions/)
+  - [Skinny bitch](https://static1.squarespace.com/static/556b2542e4b02fd687fb4fa7/t/565b8a37e4b0f60cdbbab6e4/1448839735462/skinny+bitch.pdf)
+  - [Altering trench coat from regular to petite](https://www.extrapetite.com/2014/09/altering-trench-coat-from-regular-to.html)
+  - [适合新手的日式轻乳酪](https://zhuanlan.zhihu.com/p/21966464)
+  - [哪本书是你只要有机会就会强烈推荐的？为什么？](https://www.zhihu.com/question/270883846/answer/456294634)
+  - https://nickwignall.com/
+  - [65 (Productive) Things to Do When You're Bored at Work](https://www.careercontessa.com/advice/bored-at-work/)
