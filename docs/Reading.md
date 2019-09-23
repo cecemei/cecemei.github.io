@@ -203,3 +203,4 @@ Six categories of Data Scientists](https://www.datasciencecentral.com/profiles/b
   - [哪本书是你只要有机会就会强烈推荐的？为什么？](https://www.zhihu.com/question/270883846/answer/456294634)
   - https://nickwignall.com/
   - [65 (Productive) Things to Do When You're Bored at Work](https://www.careercontessa.com/advice/bored-at-work/)
+  - [the days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
